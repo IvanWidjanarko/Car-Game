@@ -8,6 +8,8 @@ Ivan Widjanarko dan Jonathan Elloy S.
 
 Project ini untuk memenuhi tugas akhir mata kuliah Pemrograman Lanjut - 01
 
-# Demo Program
+# Demo Program (Video)
 
-![alt text](https://github.com/IvanWidjanarko/Car-Game/blob/master/Crazy%20Driver%5B4%5D.mpg)
+<video width = "320" height = "240" autoplay>
+    <source src="https://github.com/IvanWidjanarko/Car-Game/blob/master/Crazy%20Driver%5B4%5D.mpg" type="video/mp4">
+</video>
